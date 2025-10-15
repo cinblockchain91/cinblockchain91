@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm currently open to new opportunities in full-stack, blockchain development. Let’s build something great together!
 
 <!--
 **cinblockchain91/cinblockchain91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
